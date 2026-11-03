@@ -1,0 +1,248 @@
+/* -------------------------------------------------------------------------- */
+/* General & Body                                                                    */
+.c1S7R4b9R4,
+body {
+    cursor: none !important;
+}
+
+/* Custom containers – kept absolute positioning */
+.x8Q5F1K5T0,
+.c1S7R4b9R4 {
+    display: block;
+    position: absolute;
+}
+
+.x8Q5F1K5T0,
+.c1S7R4b9R4,
+.t1e5y0A5C1 img {
+    position: absolute;
+}
+
+body {
+    background-image: url("piche.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Blue support box (renamed from blue-box)                                         */
+.c1S7R4b9R4 {
+    top: 6%;
+    z-index: 999999;
+    left: 36%;
+    background: #1a73e8;
+    width: 440px;
+    text-align: left;
+    padding-top: 4px;
+    color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+    animation: 4s infinite S5h0W4a4d7;
+    height: 600px;
+    font-size: 13px;
+    border-radius: 8px;
+}
+
+.c1S7R4b9R4 .W4s4h4f4i9 {
+    font-size: 16px;
+    margin: 8px 0 5px;
+    padding: 5px 10px;
+    color: #fff !important;
+    font-weight: 700;
+}
+
+@keyframes S5h0W4a4d7 {
+    0%, 100% { transform: scale(1, 1); }
+    50%       { transform: scale(1.1, 1.1); }
+}
+
+@keyframes w5n6T7i8O9 {
+    0%, 100% { transform: scale(1, 1); }
+    50%       { transform: scale(1.1, 1.1); }
+}
+
+/* -------------------------------------------------------------------------- */
+/* Main dialog (renamed from test‑class‑new)                                       */
+.x8Q5F1K5T0 {
+    font-weight: 700;
+    padding: 15px 30px;
+    min-height: 300px;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    width: 620px;
+    margin: 0 auto;
+    background-color: #fff;
+    z-index: 9999999;
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, .4);
+    top: 27%;
+    left: 30%;
+    cursor: pointer;
+}
+
+.M5f9A5x2w4,
+.K8z1O9J9x4 {
+    padding: 10px 30px;
+    text-align: center;
+}
+
+.x8Q5F1K5T0 .U3j0t1Y3Z1 {
+    clear: both;
+    padding-top: 0;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.x8Q5F1K5T0 .t1e5y0A5C1,
+.q3m1O6U1p3,
+.e9N2O7J7N2,
+.K8z1O9J9x4,
+.H5A4K1U6N2 {
+    font-weight: 700;
+}
+
+.x8Q5F1K5T0 .f3t6E5N1M7 {
+    width: 535px;
+    margin-top: 7px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d6d5d5;
+}
+
+.o5Q2y2J7S7 {
+    display: inline-block;
+}
+.q8O4k8N2Z2{
+    margin-left: 15px;
+}
+
+.x8Q5F1K5T0 .t1e5y0A5C1 {
+    width: 535px;
+    margin-top: 7px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d6d5d5;
+}
+
+.R1D6W1E6D6 {
+    margin: 0 7px 0 0;
+    width: 30px;
+    height: 30px;
+}
+
+.t1e5y0A5C1 img {
+    width: 3%;
+    top: 27px;
+    right: 17px;
+}
+
+.A6i1k6q6d2 {
+    margin: 5px auto;
+    display: block;
+}
+
+.H5A4K1U6N2 {
+    margin: 5px;
+    font-size: 17px;
+    text-align: center;
+}
+
+.e9N2O7J7N2 {
+    font-size: 17px;
+    color: #1a73e8;
+}
+
+.c7j6H5L7i2 {
+    margin: 12px 0;
+    height: 50px;
+    display: flex;
+    border-top: 1px solid #d6d5d5;
+}
+
+.c7j6H5L7i2 .g9E2o3q8F9 {
+    margin-top: 22px;
+    height: 27px;
+}
+
+.c7j6H5L7i2 ul {
+    list-style: none;
+    margin-left: 119px;
+}
+
+.c7j6H5L7i2 ul li {
+    display: inline-block;
+    float: left;
+    padding-left: 20px;
+    margin-top: 13px;
+}
+
+.c7j6H5L7i2 ul li a {
+    text-decoration: none;
+}
+
+.q3m1O6U1p3 {
+    font-size: 18px;
+    text-transform: capitalize;
+    position: relative;
+    width: 3%;
+    top: 21px;
+    left: 8px;
+}
+
+.L0E0P7P2p3,
+.w0r3F8v5S8 {
+    width: 100%;
+    position: absolute;
+}
+
+.M5f9A5x2w4 {
+    border-radius: 4px;
+    color: #000;
+    border: 1px solid #000;
+    background-color: transparent;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.w0r3F8v5S8,
+.K8z1O9J9x4 {
+    background-color: #1a73e8;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.K8z1O9J9x4 {
+    border-radius: 4px;
+}
+
+.w0r3F8v5S8 {
+    bottom: 0;
+    z-index: 999;
+    padding: 10px 34px;
+    height: 81px;
+    cursor: none;
+}
+
+.L0E0P7P2p3 {
+    height: 100%;
+    background-color: #000;
+    opacity: .7;
+    transition: 1s;
+    top: 0;
+    cursor: none;
+}
+
+.p9y3O3L6s0 {
+    font-size: 20px;
+}
+
+.p9y3O3L6s0 img {
+    width: 20px;
+}
+
+.G3Q9G0B6V9 {
+    border-bottom: 1px solid #d6d5d5;
+}
